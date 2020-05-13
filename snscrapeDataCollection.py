@@ -6,7 +6,6 @@ import tweepy
 import os
 from tweepy import OAuthHandler
 
-
 # authorize the app to access Twitter Streaming API
 access_token = "ENTER YOUR ACCESS TOKEN"
 access_token_secret = "ENTER YOUR ACCESS TOKEN SECRET"
